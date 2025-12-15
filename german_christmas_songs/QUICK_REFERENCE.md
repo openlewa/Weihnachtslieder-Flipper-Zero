@@ -5,10 +5,11 @@
 ### Fröhlich & Lebendig
 - **Kling_Gloeckchen.fmf** (140 BPM) - Sehr lebendig, Kinderfreundlich
 - **Morgen_Kommt_Der_Weihnachtsmann.fmf** (130 BPM) - Vorfreude auf Geschenke
-- **Alle_Jahre_Wieder.fmf** (120 BPM) - Traditionell fröhlich
 - **Schneeflöckchen_Weissröckchen.fmf** (120 BPM) - Einfach und heiter
 
 ### Gemütlich & Traditionell
+- **Alle_Jahre_Wieder.fmf** (90 BPM) - Traditionell, mit klarer Silbentrennung
+
 - **Kommet_Ihr_Hirten.fmf** (115 BPM) - Festlich
 - **Ihr_Kinderlein_Kommet.fmf** (110 BPM) - Einladend
 - **Vom_Himmel_Hoch.fmf** (100 BPM) - Klassisch
@@ -38,11 +39,11 @@
 | 60 | Es ist ein Ros entsprungen | Normal |
 | 80 | Stille Nacht | Normal |
 | 90 | Leise rieselt der Schnee | Normal |
+| 90 | Alle Jahre Wieder | Normal |
 | 100 | Vom Himmel hoch | Normal |
 | 100 | O Tannenbaum | Normal |
 | 110 | Ihr Kinderlein kommet | Normal |
 | 115 | Kommet ihr Hirten | Normal |
-| 120 | Alle Jahre Wieder | Normal |
 | 120 | Schneeflöckchen Weißröckchen | Normal |
 | 130 | Morgen kommt der Weihnachtsmann | Normal |
 | 140 | Kling Glöckchen | Normal |
