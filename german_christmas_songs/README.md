@@ -177,25 +177,26 @@ Diese Sammlung enth채lt traditionelle deutsche Weihnachtslieder im FMF-Format f�
 
 ### Hintergrundmusik (ca. 10 Minuten, verlangsamte Versionen)
 
-Diese Versionen sind deutlich langsamer und wiederholen sich mehrfach, ideal als beruhigende Hintergrundmusik:
+Diese Versionen sind deutlich langsamer und wiederholen sich mehrfach, ideal als beruhigende Hintergrundmusik.
+Die Dateien beginnen mit "B-" f체r einfache Sortierung:
 
-1. **Stille_Nacht_Background_10min.fmf** (40 BPM)
+1. **B-Stille_Nacht.fmf** (40 BPM)
    - Sehr langsame, meditative Version
    - Perfekt f체r entspannte Weihnachtsstimmung
 
-2. **O_Tannenbaum_Background_10min.fmf** (45 BPM)
+2. **B-O_Tannenbaum.fmf** (45 BPM)
    - Sanfte Hintergrundversion
    - Etwa 10 Minuten Spielzeit
 
-3. **Es_Ist_Ein_Ros_Background_10min.fmf** (35 BPM)
+3. **B-Es_Ist_Ein_Ros_Entsprungen.fmf** (35 BPM)
    - Extrem langsame, kontemplative Version
    - Ideal f체r besinnliche Momente
 
-4. **Alle_Jahre_Wieder_Background_10min.fmf** (50 BPM)
+4. **B-Alle_Jahre_Wieder.fmf** (50 BPM)
    - Ruhige Langversion
    - Gem체tliche Weihnachtsatmosph채re
 
-5. **Leise_Rieselt_Background_10min.fmf** (40 BPM)
+5. **B-Leise_Rieselt_Der_Schnee.fmf** (40 BPM)
    - Sanfte Winterstimmung
    - Beruhigend und meditativ
 

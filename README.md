@@ -45,11 +45,12 @@ Diese Sammlung enthält **32 Musikdateien**:
 - Es ist ein Ros entsprungen (60 BPM) - Mittelalterlich
 
 ### Hintergrundmusik (~10 Minuten)
-- Es ist ein Ros Background (35 BPM) - Meditation
-- Stille Nacht Background (40 BPM) - Sehr ruhig
-- Leise rieselt Background (40 BPM) - Winterlich
-- O Tannenbaum Background (45 BPM) - Gemütlich
-- Alle Jahre wieder Background (50 BPM) - Traditionell
+Dateien mit "B-" Präfix für einfache Sortierung:
+- B-Es ist ein Ros Entsprungen (35 BPM) - Meditation
+- B-Stille Nacht (40 BPM) - Sehr ruhig
+- B-Leise rieselt der Schnee (40 BPM) - Winterlich
+- B-O Tannenbaum (45 BPM) - Gemütlich
+- B-Alle Jahre wieder (50 BPM) - Traditionell
 
 ## ✨ Besonderheiten
 

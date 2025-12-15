@@ -1,19 +1,19 @@
 Dateiname,BPM,Typ,Stimmung,Dauer,Besonderheit
 Alle_Jahre_Wieder.fmf,120,Normal,Fröhlich,~1min,Traditionelles deutsches Weihnachtslied
-Alle_Jahre_Wieder_Background_10min.fmf,50,Hintergrund,Ruhig,~10min,Lange Version für Atmosphäre
+B-Alle_Jahre_Wieder.fmf,50,Hintergrund,Ruhig,~10min,Lange Version für Atmosphäre
+B-Es_Ist_Ein_Ros_Entsprungen.fmf,35,Hintergrund,Sehr ruhig,~10min,Extrem langsam für Meditation
 Es_Ist_Ein_Ros_Entsprungen.fmf,60,Normal,Meditativ,~2min,Mittelalterlich (16. Jahrhundert)
-Es_Ist_Ein_Ros_Background_10min.fmf,35,Hintergrund,Sehr ruhig,~10min,Extrem langsam für Meditation
 Ihr_Kinderlein_Kommet.fmf,110,Normal,Einladend,~1min,Christoph von Schmid (1811)
 Kling_Gloeckchen.fmf,140,Normal,Sehr fröhlich,~1min,Kinderfreundlich lebhaft
 Kommet_Ihr_Hirten.fmf,115,Normal,Festlich,~1min,Böhmisches Weihnachtslied
+B-Leise_Rieselt_Der_Schnee.fmf,40,Hintergrund,Winterlich,~10min,Sanfte Winterstimmung
 Leise_Rieselt_Der_Schnee.fmf,90,Normal,Sanft,~1min,Eduard Ebel (1895)
-Leise_Rieselt_Background_10min.fmf,40,Hintergrund,Winterlich,~10min,Sanfte Winterstimmung
 Morgen_Kommt_Der_Weihnachtsmann.fmf,130,Normal,Aufgeregt,~1min,Hoffmann von Fallersleben (1835)
+B-O_Tannenbaum.fmf,45,Hintergrund,Gemütlich,~10min,Festliche Hintergrundmusik
 O_Tannenbaum.fmf,100,Normal,Traditionell,~1min,Auch als O Christmas Tree bekannt
-O_Tannenbaum_Background_10min.fmf,45,Hintergrund,Gemütlich,~10min,Festliche Hintergrundmusik
 Schneeflöckchen_Weissröckchen.fmf,120,Normal,Heiter,~1min,Einfaches Kinderlied
+B-Stille_Nacht.fmf,40,Hintergrund,Sehr ruhig,~10min,Beruhigende Wirkung
 Stille_Nacht.fmf,80,Normal,Besinnlich,~2min,Weltberühmtes Weihnachtslied (1818)
-Stille_Nacht_Background_10min.fmf,40,Hintergrund,Sehr ruhig,~10min,Beruhigende Wirkung
 Vom_Himmel_Hoch.fmf,100,Normal,Feierlich,~1min,Martin Luther (1535)
 Froehliche_Weihnacht_Ueberall.fmf,110,Normal,Fröhlich,~1min,Karl Riedel (1860er)
 Advent_Advent.fmf,100,Normal,Traditionell,~30sek,Kurzes Adventslied mit Kerzen

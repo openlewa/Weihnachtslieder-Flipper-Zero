@@ -96,19 +96,21 @@
 🎵 HINTERGRUNDMUSIK (~10 MINUTEN, nach Tempo sortiert)
 ───────────────────────────────────────────────────────────────────────
 
-[ 35 BPM] Es_Ist_Ein_Ros_Background_10min.fmf
+Hinweis: Dateien beginnen mit "B-" für einfache Sortierung
+
+[ 35 BPM] B-Es_Ist_Ein_Ros_Entsprungen.fmf
           └─ Extrem langsam, für tiefe Meditation
           
-[ 40 BPM] Stille_Nacht_Background_10min.fmf
+[ 40 BPM] B-Stille_Nacht.fmf
           └─ Sehr ruhig, beruhigende Wirkung
           
-[ 40 BPM] Leise_Rieselt_Background_10min.fmf
+[ 40 BPM] B-Leise_Rieselt_Der_Schnee.fmf
           └─ Winterliche Atmosphäre, sanft
           
-[ 45 BPM] O_Tannenbaum_Background_10min.fmf
+[ 45 BPM] B-O_Tannenbaum.fmf
           └─ Gemütlich, festliche Hintergrundmusik
           
-[ 50 BPM] Alle_Jahre_Wieder_Background_10min.fmf
+[ 50 BPM] B-Alle_Jahre_Wieder.fmf
           └─ Traditionell, gemütliche Stimmung
 
 ───────────────────────────────────────────────────────────────────────
@@ -182,9 +184,9 @@ Lizenz:         CC0 1.0 Universal (Public Domain)
    - Lasst_Uns_Froh_Und_Munter_Sein.fmf (DAS Nikolauslied!)
 
 🍽️ Weihnachtsessen:
-   - Stille_Nacht_Background_10min.fmf
-   - O_Tannenbaum_Background_10min.fmf
-   - Alle_Jahre_Wieder_Background_10min.fmf
+   - B-Stille_Nacht.fmf
+   - B-O_Tannenbaum.fmf
+   - B-Alle_Jahre_Wieder.fmf
 
 🕯️ Besinnliche Momente:
    - Es_Ist_Ein_Ros_Entsprungen.fmf
@@ -215,7 +217,7 @@ Lizenz:         CC0 1.0 Universal (Public Domain)
 😴 Einschlafen/Wiegenlied:
    - Still_Still_Still.fmf
    - Joseph_Lieber_Joseph_Mein.fmf
-   - Es_Ist_Ein_Ros_Background_10min.fmf (35 BPM - sehr langsam)
+   - B-Es_Ist_Ein_Ros_Entsprungen.fmf (35 BPM - sehr langsam)
 
 ☕ Adventskaffee:
    - Leise_Rieselt_Der_Schnee.fmf

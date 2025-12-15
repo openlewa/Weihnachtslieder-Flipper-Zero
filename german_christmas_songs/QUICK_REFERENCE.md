@@ -36,21 +36,22 @@
 - **Es_Ist_Ein_Ros_Entsprungen.fmf** (60 BPM) - Meditativ, mittelalterlich
 
 ### Hintergrundmusik (~10 Minuten)
-- **Stille_Nacht_Background_10min.fmf** (40 BPM) - Sehr ruhig
-- **O_Tannenbaum_Background_10min.fmf** (45 BPM) - Beruhigend
-- **Alle_Jahre_Wieder_Background_10min.fmf** (50 BPM) - Gemütlich
-- **Leise_Rieselt_Background_10min.fmf** (40 BPM) - Winterlich
-- **Es_Ist_Ein_Ros_Background_10min.fmf** (35 BPM) - Extrem langsam, meditativ
+Dateien mit "B-" Präfix für einfache Sortierung:
+- **B-Stille_Nacht.fmf** (40 BPM) - Sehr ruhig
+- **B-O_Tannenbaum.fmf** (45 BPM) - Beruhigend
+- **B-Alle_Jahre_Wieder.fmf** (50 BPM) - Gemütlich
+- **B-Leise_Rieselt_Der_Schnee.fmf** (40 BPM) - Winterlich
+- **B-Es_Ist_Ein_Ros_Entsprungen.fmf** (35 BPM) - Extrem langsam, meditativ
 
 ## 📊 Nach Tempo (BPM)
 
 | BPM | Lied | Typ |
 |-----|------|-----|
-| 35 | Es ist ein Ros (Background) | Hintergrund |
-| 40 | Stille Nacht (Background) | Hintergrund |
-| 40 | Leise rieselt (Background) | Hintergrund |
-| 45 | O Tannenbaum (Background) | Hintergrund |
-| 50 | Alle Jahre Wieder (Background) | Hintergrund |
+| 35 | B-Es ist ein Ros Entsprungen | Hintergrund |
+| 40 | B-Stille Nacht | Hintergrund |
+| 40 | B-Leise rieselt der Schnee | Hintergrund |
+| 45 | B-O Tannenbaum | Hintergrund |
+| 50 | B-Alle Jahre Wieder | Hintergrund |
 | 60 | Es ist ein Ros entsprungen | Normal |
 | 70 | Maria durch ein Dornwald ging | Normal |
 | 75 | Still, still, still | Normal |
@@ -124,13 +125,13 @@
 4. Ihr_Kinderlein_Kommet.fmf
 
 ### Playlist 7: Hintergrundmusik beim Kochen/Essen
-- Stille_Nacht_Background_10min.fmf
-- O_Tannenbaum_Background_10min.fmf
-- Alle_Jahre_Wieder_Background_10min.fmf
+- B-Stille_Nacht.fmf
+- B-O_Tannenbaum.fmf
+- B-Alle_Jahre_Wieder.fmf
 
 ### Playlist 8: Meditation & Entspannung
-- Es_Ist_Ein_Ros_Background_10min.fmf
-- Leise_Rieselt_Background_10min.fmf
+- B-Es_Ist_Ein_Ros_Entsprungen.fmf
+- B-Leise_Rieselt_Der_Schnee.fmf
 
 ## 💡 Verwendungstipps
 
@@ -138,7 +139,7 @@
 
 **Bescherung:** Tochter_Zion → O_Du_Froehliche → Stille_Nacht
 
-**Weihnachtsessen:** Nutze die Background-Versionen
+**Weihnachtsessen:** Nutze die B-* Background-Versionen
 
 **Kirchliche Stimmung:** Vom_Himmel_Hoch, Es_Ist_Ein_Ros_Entsprungen, Macht_Hoch_Die_Tuer
 
@@ -148,7 +149,7 @@
 
 **Einschlafen/Wiegenlied:** Still_Still_Still, Joseph_Lieber_Joseph_Mein
 
-**Meditation:** Es_Ist_Ein_Ros_Background_10min.fmf, Maria_Durch_Ein_Dornwald_Ging
+**Meditation:** B-Es_Ist_Ein_Ros_Entsprungen.fmf, Maria_Durch_Ein_Dornwald_Ging
 
 **Adventskranz anzünden:** Advent_Advent, Wir_Sagen_Euch_An
 
