@@ -91,7 +91,7 @@ Diese Versionen sind deutlich langsamer und wiederholen sich mehrfach, ideal als
    - Sanfte Hintergrundversion
    - Etwa 10 Minuten Spielzeit
 
-3. **Es_Ist_Ein_Ros_Background_10min.fmf** (35 BPM)
+3. **Es_Ist_Ein_Ros_entsprungen_Background_10min.fmf** (35 BPM)
    - Extrem langsame, kontemplative Version
    - Ideal für besinnliche Momente
 
@@ -147,7 +147,7 @@ Beispiele:
 
 **Kombinationen:**
 - Starte mit "Kling Glöckchen" für fröhliche Stimmung
-- Wechsle zu "Stille Nacht" oder "Es ist ein Ros" für besinnliche Momente
+- Wechsle zu "Stille Nacht" oder "Es ist ein Ros entsprungen" für besinnliche Momente
 - Nutze die Background-Versionen während der Bescherung oder beim Essen
 
 ## Technische Details
