@@ -79,6 +79,102 @@ Diese Sammlung enthält traditionelle deutsche Weihnachtslieder im FMF-Format f�
     - Fröhlich und leicht
     - Perfekt für Kinder
 
+12. **Froehliche_Weihnacht_Ueberall.fmf** (110 BPM)
+    - Internationales Weihnachtslied
+    - Text: Karl Riedel (1860er)
+    - Fröhliche, beschwingte Melodie
+    - Verkündet Weihnachtsfreude weltweit
+
+13. **Advent_Advent.fmf** (100 BPM)
+    - Kurzes traditionelles Adventslied
+    - "Advent, Advent, ein Lichtlein brennt"
+    - Einfache Melodie für alle Altersgruppen
+    - Perfekt zum Anzünden der Adventskerzen
+
+14. **Advent_Advent_Verpennt.fmf** (110 BPM)
+    - Erweiterte humorvolle Version
+    - "Und wenn das fünfte Lichtlein brennt..."
+    - Mit dem bekannten lustigen Zusatzvers
+    - Kinderfreundlich und amüsant
+
+15. **Joseph_Lieber_Joseph_Mein.fmf** (80 BPM)
+    - Mittelalterliches Wiegenlied
+    - Deutsches Volkslied aus dem 15. Jahrhundert
+    - Sanfte, beruhigende Melodie
+    - Wiegenlied für das Christuskind
+
+16. **Zu_Bethlehem_Geboren.fmf** (90 BPM)
+    - Traditionelles Weihnachtslied
+    - Text: Friedrich Spee (1637)
+    - Feierliche barocke Melodie
+    - Erzählt die Geburtsgeschichte
+
+17. **Macht_Hoch_Die_Tuer.fmf** (100 BPM)
+    - Adventslied
+    - Text: Georg Weissel (1642)
+    - Festliche, majestätische Melodie
+    - Einzug des Königs
+
+18. **Tochter_Zion.fmf** (120 BPM)
+    - Basiert auf Händels "Judas Maccabaeus"
+    - Text: Friedrich Heinrich Ranke (1826)
+    - Triumphale, jubelnde Melodie
+    - Sehr festlich und freudig
+
+19. **Nun_Freut_Euch_Ihr_Christen.fmf** (110 BPM)
+    - Altes deutsches Weihnachtslied
+    - Fröhliche Verkündigung
+    - Lebhafte Melodie
+    - Lädt zum Mitfreuen ein
+
+20. **O_Du_Froehliche.fmf** (90 BPM)
+    - Eines der bekanntesten deutschen Weihnachtslieder
+    - Text: Johannes Daniel Falk (1816)
+    - Melodie aus Sizilien
+    - "O du fröhliche, o du selige"
+
+21. **Wir_Sagen_Euch_An.fmf** (95 BPM)
+    - Französisches Adventslied (deutsch)
+    - Text: Maria Ferschl (1930er)
+    - Ruhige, verkündende Melodie
+    - Zählt die Adventswochen
+
+22. **Maria_Durch_Ein_Dornwald_Ging.fmf** (70 BPM)
+    - Altes Wallfahrtslied
+    - Mystische, geheimnisvolle Stimmung
+    - Langsam und meditativ
+    - Symbolisches Rosenwunder
+
+23. **Was_Soll_Das_Bedeuten.fmf** (105 BPM)
+    - Schlesisches Hirtenlied
+    - Hirtengeschichte zur Weihnacht
+    - Volkstümliche Melodie
+    - Erzählender Charakter
+
+24. **Still_Still_Still.fmf** (75 BPM)
+    - Österreichisches Wiegenlied
+    - Volkslied aus Salzburg
+    - Sehr ruhig und sanft
+    - Beruhigendes Kinderlied
+
+25. **Morgen_Kinder_Wirds_Was_Geben.fmf** (125 BPM)
+    - Beliebtes Kinderlied
+    - Text: Carl Friedrich Wilhelm Splittegarb (1846)
+    - Fröhlich und aufgeregt
+    - Vorfreude auf den Weihnachtstag
+
+26. **Es_Ist_Fuer_Uns_Eine_Zeit_Angekommen.fmf** (100 BPM)
+    - Traditionelles Adventslied
+    - Volkslied aus dem Hunsrück
+    - Besinnlich und wartend
+    - Adventszeit wird angekündigt
+
+27. **Lasst_Uns_Froh_Und_Munter_Sein.fmf** (130 BPM)
+    - Nikolauslied
+    - Sehr bekanntes Kinderlied
+    - Lebhaft und fröhlich
+    - Freude auf den Nikolaus
+
 ### Hintergrundmusik (ca. 10 Minuten, verlangsamte Versionen)
 
 Diese Versionen sind deutlich langsamer und wiederholen sich mehrfach, ideal als beruhigende Hintergrundmusik:
@@ -159,7 +255,17 @@ Beispiele:
 
 ## Lizenz
 
-Alle Lieder sind gemeinfrei (Public Domain). Die Melodien und Texte sind traditionelle deutsche Volkslieder, deren Urheberrechte lange abgelaufen sind.
+Diese Sammlung steht unter der **CC0 1.0 Universal (Public Domain Dedication)** Lizenz.
+
+Alle enthaltenen Lieder sind **gemeinfreie Volkslieder (Public Domain)**. Die Melodien und Texte sind traditionelle deutsche Weihnachtslieder, deren Urheberrechte lange abgelaufen sind. Sie können diese Lieder frei verwenden, teilen, modifizieren und auch kommerziell nutzen, ohne Einschränkungen.
+
+Die FMF-Transkriptionen dieser Sammlung werden ebenfalls unter CC0 1.0 zur Verfügung gestellt, was bedeutet, dass Sie:
+- Die Dateien frei kopieren und verteilen können
+- Die Dateien verändern und anpassen können
+- Die Dateien kommerziell nutzen können
+- Keine Namensnennung erforderlich ist (aber geschätzt wird)
+
+Siehe [LICENSE](./LICENSE) für den vollständigen Lizenztext.
 
 ## Credits
 

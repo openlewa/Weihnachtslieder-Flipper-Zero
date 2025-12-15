@@ -1,32 +1,85 @@
-Music files in .fmf format for the Flipper Zero Music Player plugin
+# Deutsche Weihnachtslieder für Flipper Zero
 
-## Deutsche Weihnachtslieder / German Christmas Songs
-
-Eine umfangreiche Sammlung traditioneller deutscher Weihnachtslieder im FMF-Format für den Flipper Zero.
+Eine umfangreiche Sammlung traditioneller deutscher Weihnachtslieder im FMF-Format für den Flipper Zero Music Player.
 
 📁 **[Zum Ordner: german_christmas_songs/](./german_christmas_songs/)**
 
-### Enthaltene Lieder:
+## 🎄 Übersicht
 
-**Normal Tempo:**
-- Alle Jahre Wieder (120 BPM)
-- O Tannenbaum (100 BPM)
+Diese Sammlung enthält **32 Musikdateien**:
+- **27 Lieder** in normaler Geschwindigkeit (60-140 BPM)
+- **5 Hintergrundmusik-Versionen** (~10 Minuten, 35-50 BPM)
+
+## 📜 Enthaltene Lieder
+
+### Fröhlich & Lebendig
 - Kling Glöckchen (140 BPM)
-- Es ist ein Ros entsprungen (60 BPM)
-- Stille Nacht (80 BPM)
-- Ihr Kinderlein kommet (110 BPM)
-- Leise rieselt der Schnee (90 BPM)
-- Vom Himmel hoch (100 BPM)
+- Lasst uns froh und munter sein (130 BPM) - Nikolauslied
 - Morgen kommt der Weihnachtsmann (130 BPM)
-- Kommet ihr Hirten (115 BPM)
+- Morgen, Kinder, wird's was geben (125 BPM)
+- Tochter Zion (120 BPM) - Nach Händel
+- Alle Jahre wieder (120 BPM)
 - Schneeflöckchen Weißröckchen (120 BPM)
+- Fröhliche Weihnacht überall (110 BPM)
 
-**Hintergrundmusik (~10 Minuten, verlangsamte Versionen):**
-- Stille Nacht Background (40 BPM)
-- O Tannenbaum Background (45 BPM)
-- Es ist ein Ros Background (35 BPM)
-- Alle Jahre Wieder Background (50 BPM)
+### Gemütlich & Traditionell
+- Kommet ihr Hirten (115 BPM)
+- Nun freut euch, ihr Christen (110 BPM)
+- Ihr Kinderlein kommet (110 BPM)
+- Advent, Advent (110 BPM) - Mit lustigem Zusatzvers
+- Was soll das bedeuten (105 BPM) - Schlesisches Hirtenlied
+- O Tannenbaum (100 BPM)
+- Vom Himmel hoch (100 BPM) - Martin Luther 1535
+- Macht hoch die Tür (100 BPM)
+- Es ist für uns eine Zeit angekommen (100 BPM)
+- Wir sagen euch an (95 BPM) - Adventslied
+- O du fröhliche (90 BPM)
+- Zu Bethlehem geboren (90 BPM)
 
-Alle Lieder sind gemeinfreie Volkslieder (Public Domain) mit korrekten Noten, angemessenen Geschwindigkeiten und authentischen Pausen.
+### Ruhig & Besinnlich
+- Leise rieselt der Schnee (90 BPM)
+- Stille Nacht (80 BPM) - Weltberühmt
+- Joseph, lieber Joseph mein (80 BPM) - Wiegenlied
+- Still, still, still (75 BPM) - Österreichisches Wiegenlied
+- Maria durch ein Dornwald ging (70 BPM) - Mystisch
+- Es ist ein Ros entsprungen (60 BPM) - Mittelalterlich
 
-Siehe [README](./german_christmas_songs/README.md) für detaillierte Informationen zu jedem Lied.
+### Hintergrundmusik (~10 Minuten)
+- Es ist ein Ros Background (35 BPM) - Meditation
+- Stille Nacht Background (40 BPM) - Sehr ruhig
+- Leise rieselt Background (40 BPM) - Winterlich
+- O Tannenbaum Background (45 BPM) - Gemütlich
+- Alle Jahre wieder Background (50 BPM) - Traditionell
+
+## ✨ Besonderheiten
+
+✓ **Musikalisch korrekt** - Alle Noten nach Originalen transkribiert  
+✓ **Authentische Tempi** - Angemessene Geschwindigkeiten  
+✓ **Historisch vielfältig** - Vom Mittelalter bis 19. Jahrhundert  
+✓ **Für jeden Anlass** - Fröhlich, besinnlich, humorvoll  
+✓ **CC0 Lizenz** - Komplett frei verwendbar  
+✓ **Gut dokumentiert** - Umfangreiche Hintergrundinformationen
+
+## 📱 Installation
+
+1. Flipper Zero per USB verbinden
+2. qFlipper öffnen
+3. File Manager → SD Card → music_player
+4. Gewünschte `.fmf` Dateien hineinkopieren
+5. Im Flipper Zero: Apps → Music Player
+
+## 📚 Dokumentation
+
+- **[README.md](./german_christmas_songs/README.md)** - Ausführliche Dokumentation aller Lieder
+- **[QUICK_REFERENCE.md](./german_christmas_songs/QUICK_REFERENCE.md)** - Schnellübersicht & Playlists
+- **[INDEX.txt](./german_christmas_songs/INDEX.txt)** - Komplette Dateiliste
+- **[SONG_LIST.csv](./german_christmas_songs/SONG_LIST.csv)** - CSV-Tabelle aller Lieder
+- **[LICENSE](./german_christmas_songs/LICENSE)** - CC0 1.0 Universal
+
+## 📜 Lizenz
+
+Alle Lieder sind gemeinfreie Volkslieder (Public Domain). Die FMF-Transkriptionen stehen unter **CC0 1.0 Universal** - frei verwendbar ohne Einschränkungen.
+
+---
+
+**Frohe Weihnachten! 🎄✨🎵**

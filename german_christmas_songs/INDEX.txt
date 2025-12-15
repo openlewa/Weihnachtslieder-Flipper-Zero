@@ -2,49 +2,95 @@
   DEUTSCHE WEIHNACHTSLIEDER FÜR FLIPPER ZERO - KOMPLETTE SAMMLUNG
 ═══════════════════════════════════════════════════════════════════════
 
-📂 ORDNERINHALT: 17 Dateien
-   - 11 Lieder in normaler Geschwindigkeit
+📂 ORDNERINHALT: 37 Dateien
+   - 27 Lieder in normaler Geschwindigkeit
    - 5 Hintergrundmusik-Versionen (~10 Minuten)
-   - 1 Hauptdokumentation (README.md)
-   - 1 Schnellübersicht (QUICK_REFERENCE.md)
-   - 1 Diese Index-Datei
+   - 5 Dokumentationsdateien
 
 ───────────────────────────────────────────────────────────────────────
 📀 NORMALE LIEDER (nach Tempo sortiert)
 ───────────────────────────────────────────────────────────────────────
 
 [140 BPM] Kling_Gloeckchen.fmf
-          └─ Sehr lebendig, Kinderfreundlich
+          └─ Sehr lebendig, kinderfreundlich
+          
+[130 BPM] Lasst_Uns_Froh_Und_Munter_Sein.fmf
+          └─ Nikolauslied, sehr fröhlich
           
 [130 BPM] Morgen_Kommt_Der_Weihnachtsmann.fmf
-          └─ Fröhlich, Vorfreude auf Geschenke
+          └─ Vorfreude auf Geschenke
+          
+[125 BPM] Morgen_Kinder_Wirds_Was_Geben.fmf
+          └─ Aufgeregt, Vorfreude auf Weihnachtstag
           
 [120 BPM] Alle_Jahre_Wieder.fmf
           └─ Traditionell, beliebtes deutsches Weihnachtslied
+          
+[120 BPM] Tochter_Zion.fmf
+          └─ Triumphierend, nach Händels "Judas Maccabaeus"
           
 [120 BPM] Schneeflöckchen_Weissröckchen.fmf
           └─ Einfaches Kinderlied über Schnee
           
 [115 BPM] Kommet_Ihr_Hirten.fmf
-          └─ Festlich, Hirtengeschichte
+          └─ Festlich, böhmisches Weihnachtslied
+          
+[110 BPM] Froehliche_Weihnacht_Ueberall.fmf
+          └─ Weihnachtsfreude weltweit
+          
+[110 BPM] Nun_Freut_Euch_Ihr_Christen.fmf
+          └─ Lebhafte Verkündigung
           
 [110 BPM] Ihr_Kinderlein_Kommet.fmf
-          └─ Einladend, Kinderweihnachtslied
+          └─ Einladendes Kinderweihnachtslied
+          
+[110 BPM] Advent_Advent_Verpennt.fmf
+          └─ Humorvolle Version mit lustigem Zusatzvers
+          
+[105 BPM] Was_Soll_Das_Bedeuten.fmf
+          └─ Schlesisches Hirtenlied, volkstümlich
           
 [100 BPM] O_Tannenbaum.fmf
-          └─ Klassiker, auch international bekannt
+          └─ Klassiker, international bekannt
           
 [100 BPM] Vom_Himmel_Hoch.fmf
-          └─ Lutherisches Weihnachtslied, traditionell
+          └─ Lutherisches Weihnachtslied (Martin Luther 1535)
+          
+[100 BPM] Advent_Advent.fmf
+          └─ Kurzes traditionelles Adventslied mit Kerzen
+          
+[100 BPM] Macht_Hoch_Die_Tuer.fmf
+          └─ Majestätisch, Einzug des Königs (Georg Weissel 1642)
+          
+[100 BPM] Es_Ist_Fuer_Uns_Eine_Zeit_Angekommen.fmf
+          └─ Besinnlich, Volkslied aus dem Hunsrück
+          
+[ 95 BPM] Wir_Sagen_Euch_An.fmf
+          └─ Verkündend, französisches Adventslied
           
 [ 90 BPM] Leise_Rieselt_Der_Schnee.fmf
-          └─ Sanft, beschreibt fallenden Schnee
+          └─ Sanft, beschreibt fallenden Schnee (Eduard Ebel 1895)
+          
+[ 90 BPM] O_Du_Froehliche.fmf
+          └─ Eines der bekanntesten deutschen Weihnachtslieder
+          
+[ 90 BPM] Zu_Bethlehem_Geboren.fmf
+          └─ Feierliche barocke Melodie (Friedrich Spee 1637)
           
 [ 80 BPM] Stille_Nacht.fmf
-          └─ Weltberühmt, das bekannteste Weihnachtslied
+          └─ Weltberühmt, das bekannteste Weihnachtslied (Mohr/Gruber 1818)
+          
+[ 80 BPM] Joseph_Lieber_Joseph_Mein.fmf
+          └─ Mittelalterliches Wiegenlied (15. Jahrhundert)
+          
+[ 75 BPM] Still_Still_Still.fmf
+          └─ Österreichisches Wiegenlied aus Salzburg
+          
+[ 70 BPM] Maria_Durch_Ein_Dornwald_Ging.fmf
+          └─ Mystisch, altes Wallfahrtslied
           
 [ 60 BPM] Es_Ist_Ein_Ros_Entsprungen.fmf
-          └─ Mittelalterlich, meditativ, sehr besinnlich
+          └─ Mittelalterlich, meditativ (ca. 16. Jahrhundert)
 
 ───────────────────────────────────────────────────────────────────────
 🎵 HINTERGRUNDMUSIK (~10 MINUTEN, nach Tempo sortiert)
@@ -69,21 +115,31 @@
 📚 DOKUMENTATION
 ───────────────────────────────────────────────────────────────────────
 
+LICENSE
+└─ CC0 1.0 Universal (Public Domain Dedication)
+   Vollständiger Lizenztext
+
 README.md
 └─ Ausführliche Dokumentation aller Lieder mit:
    • Historische Hintergründe
    • Komponisten und Textdichter
    • Technische Details zum FMF-Format
    • Installation und Verwendung
-   • Lizenzinformationen (alle Public Domain)
+   • Lizenzinformationen
 
 QUICK_REFERENCE.md
 └─ Schnellübersicht mit:
    • Sortierung nach Stimmung
    • Sortierung nach Tempo (BPM-Tabelle)
-   • Empfohlene Playlists für verschiedene Anlässe
+   • 8 empfohlene Playlists für verschiedene Anlässe
    • Verwendungstipps
    • Flipper Zero Bedienungsanleitung
+
+SONG_LIST.csv
+└─ CSV-Tabelle aller Lieder mit:
+   • Dateiname, BPM, Typ, Stimmung
+   • Dauer und Besonderheiten
+   • Ideal für Tabellenkalkulationen
 
 INDEX.txt (diese Datei)
 └─ Komplette Übersicht aller Dateien
@@ -94,40 +150,78 @@ INDEX.txt (diese Datei)
 
 Format:         FMF (Flipper Music Format) Version 0
 Dateigröße:     1-3 KB pro Datei
-Gesamtgröße:    ~25 KB (alle Dateien)
+Gesamtgröße:    ~150 KB (alle Dateien)
+Anzahl Lieder:  27 normale + 5 Hintergrund = 32 Musikdateien
 Kompatibilität: Flipper Zero Music Player Plugin
-Lizenz:         Public Domain (gemeinfreie Volkslieder)
+Lizenz:         CC0 1.0 Universal (Public Domain)
 
 ───────────────────────────────────────────────────────────────────────
 🎁 VERWENDUNGSSZENARIEN
 ───────────────────────────────────────────────────────────────────────
 
-🎄 Heiligabend:
-   1. Ihr_Kinderlein_Kommet.fmf (Beginn)
-   2. Stille_Nacht.fmf (Bescherung)
-   3. O_Tannenbaum.fmf (Abschluss)
+🎄 Heiligabend (24. Dezember):
+   1. Tochter_Zion.fmf (Ankunft)
+   2. O_Du_Froehliche.fmf (Feierlicher Beginn)
+   3. Stille_Nacht.fmf (Bescherung)
+   4. Ihr_Kinderlein_Kommet.fmf (Abschluss)
 
 👨‍👩‍👧‍👦 Mit Kindern:
    - Kling_Gloeckchen.fmf
+   - Lasst_Uns_Froh_Und_Munter_Sein.fmf
+   - Morgen_Kinder_Wirds_Was_Geben.fmf
    - Morgen_Kommt_Der_Weihnachtsmann.fmf
    - Schneeflöckchen_Weissröckchen.fmf
+   - Advent_Advent_Verpennt.fmf (humorvoll!)
+
+🕯️ Adventskranz anzünden:
+   - Advent_Advent.fmf
+   - Wir_Sagen_Euch_An.fmf
+   - Macht_Hoch_Die_Tuer.fmf
+
+🎅 Nikolausabend (6. Dezember):
+   - Lasst_Uns_Froh_Und_Munter_Sein.fmf (DAS Nikolauslied!)
 
 🍽️ Weihnachtsessen:
    - Stille_Nacht_Background_10min.fmf
    - O_Tannenbaum_Background_10min.fmf
+   - Alle_Jahre_Wieder_Background_10min.fmf
 
 🕯️ Besinnliche Momente:
    - Es_Ist_Ein_Ros_Entsprungen.fmf
+   - Maria_Durch_Ein_Dornwald_Ging.fmf
+   - Still_Still_Still.fmf
    - Leise_Rieselt_Der_Schnee.fmf
-   - Vom_Himmel_Hoch.fmf
+   - Joseph_Lieber_Joseph_Mein.fmf
 
 ⛪ Kirchliche Atmosphäre:
+   - Vom_Himmel_Hoch.fmf (Martin Luther)
+   - Macht_Hoch_Die_Tuer.fmf
    - Es_Ist_Ein_Ros_Entsprungen.fmf
-   - Vom_Himmel_Hoch.fmf
-   - Stille_Nacht.fmf
+   - Zu_Bethlehem_Geboren.fmf
+   - O_Du_Froehliche.fmf
 
-😴 Einschlafen/Meditation:
+🎊 Festlich & Triumphierend:
+   - Tochter_Zion.fmf (nach Händel!)
+   - Froehliche_Weihnacht_Ueberall.fmf
+   - O_Du_Froehliche.fmf
+   - Nun_Freut_Euch_Ihr_Christen.fmf
+
+🐑 Hirten & Krippe:
+   - Kommet_Ihr_Hirten.fmf
+   - Was_Soll_Das_Bedeuten.fmf
+   - Zu_Bethlehem_Geboren.fmf
+   - Ihr_Kinderlein_Kommet.fmf
+
+😴 Einschlafen/Wiegenlied:
+   - Still_Still_Still.fmf
+   - Joseph_Lieber_Joseph_Mein.fmf
    - Es_Ist_Ein_Ros_Background_10min.fmf (35 BPM - sehr langsam)
+
+☕ Adventskaffee:
+   - Leise_Rieselt_Der_Schnee.fmf
+   - O_Tannenbaum.fmf
+   - Froehliche_Weihnacht_Ueberall.fmf
+   - Wir_Sagen_Euch_An.fmf
 
 ───────────────────────────────────────────────────────────────────────
 📝 INSTALLATION AUF FLIPPER ZERO
@@ -144,19 +238,53 @@ Lizenz:         Public Domain (gemeinfreie Volkslieder)
 ✨ BESONDERHEITEN DIESER SAMMLUNG
 ───────────────────────────────────────────────────────────────────────
 
-✓ Musikalisch korrekt: Alle Noten sorgfältig nach Originalen transkribiert
-✓ Authentische Tempi: Angemessene BPM für jedes Lied
-✓ Richtige Pausen: Natürliche Phrasierung und Atempausen
-✓ Vielfältige Auswahl: Von mittelalterlich bis modern
-✓ Für jeden Anlass: Fröhlich, besinnlich, meditativ
-✓ Hintergrundmusik: Extra-lange Versionen für Atmosphäre
-✓ Public Domain: Alle Lieder frei verwendbar
-✓ Gut dokumentiert: Ausführliche Hintergrundinformationen
+✓ 32 Musikdateien - Umfangreichste deutsche Weihnachtsliedersammlung
+✓ Musikalisch korrekt - Alle Noten nach Originalen transkribiert
+✓ Authentische Tempi - Angemessene BPM für jedes Lied
+✓ Richtige Pausen - Natürliche Phrasierung eingebaut
+✓ Historisch vielfältig - Vom Mittelalter (15. Jh.) bis 19. Jahrhundert
+✓ Für jeden Anlass - Fröhlich, besinnlich, meditativ, humorvoll
+✓ Hintergrundmusik - Extra-lange Versionen (~10 Min) für Atmosphäre
+✓ CC0 Lizenz - Komplett frei verwendbar, keine Einschränkungen
+✓ Gut dokumentiert - Umfangreiche Hintergrundinformationen
+✓ Kinderfreundlich - Viele bekannte Kinderlieder enthalten
+✓ Vollständig - Alle wichtigen deutschen Weihnachtslieder
+
+───────────────────────────────────────────────────────────────────────
+📖 HISTORISCHE EPOCHEN IN DIESER SAMMLUNG
+───────────────────────────────────────────────────────────────────────
+
+Mittelalter (15.-16. Jh.):
+  • Joseph, lieber Joseph mein (15. Jh.)
+  • Es ist ein Ros entsprungen (16. Jh.)
+  • Maria durch ein Dornwald ging (Wallfahrtslied)
+
+Reformation (16. Jh.):
+  • Vom Himmel hoch (Martin Luther, 1535)
+
+Barock (17. Jh.):
+  • Zu Bethlehem geboren (Friedrich Spee, 1637)
+  • Macht hoch die Tür (Georg Weissel, 1642)
+
+Romantik & Biedermeier (19. Jh.):
+  • Stille Nacht (Mohr/Gruber, 1818)
+  • O du fröhliche (Johannes Daniel Falk, 1816)
+  • Tochter Zion (nach Händel, Ranke 1826)
+  • Alle Jahre wieder (Silcher, 1842)
+  • Morgen, Kinder, wird's was geben (Splittegarb, 1846)
+  • Leise rieselt der Schnee (Eduard Ebel, 1895)
+
+Volkslieder (verschiedene Epochen):
+  • Still, still, still (Österreich)
+  • Schneeflöckchen Weißröckchen
+  • Kling Glöckchen
+  • Und viele mehr...
 
 ───────────────────────────────────────────────────────────────────────
 
 Erstellt: Dezember 2024
-Alle Lieder sind traditionelle deutsche Volkslieder (Public Domain)
+Lizenz: CC0 1.0 Universal (Public Domain Dedication)
+Alle Lieder sind traditionelle deutsche Volkslieder
 Für Flipper Zero Music Player
 
 Frohe Weihnachten! 🎄 ✨ 🎵
