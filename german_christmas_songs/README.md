@@ -13,11 +13,11 @@ Diese Sammlung enthält traditionelle deutsche Weihnachtslieder im FMF-Format f�
 
 ### Normale Geschwindigkeit
 
-1. **Alle_Jahre_Wieder.fmf** (120 BPM)
+1. **Alle_Jahre_Wieder.fmf** (90 BPM)
    - Traditionelles deutsches Weihnachtslied
    - Text: Wilhelm Hey (1837)
    - Melodie: Friedrich Silcher (1842)
-   - Einfache, fröhliche Melodie in C-Dur
+   - Einfache, fröhliche Melodie in C-Dur mit klarer Silbentrennung
 
 2. **O_Tannenbaum.fmf** (100 BPM)
    - Auch bekannt als "O Christmas Tree"
