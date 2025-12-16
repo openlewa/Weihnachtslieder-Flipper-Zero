@@ -2,11 +2,12 @@
   DEUTSCHE WEIHNACHTSLIEDER FÜR FLIPPER ZERO - KOMPLETTE SAMMLUNG
 ═══════════════════════════════════════════════════════════════════════
 
-📂 ORDNERINHALT: 17 Dateien
-   - 11 Lieder in normaler Geschwindigkeit
+📂 ORDNERINHALT: 33 Dateien
+   - 27 Lieder in normaler Geschwindigkeit
    - 5 Hintergrundmusik-Versionen (~10 Minuten)
    - 1 Hauptdokumentation (README.md)
    - 1 Schnellübersicht (QUICK_REFERENCE.md)
+   - 1 Lied-Liste (SONG_LIST.csv)
    - 1 Diese Index-Datei
 
 ───────────────────────────────────────────────────────────────────────
@@ -16,11 +17,23 @@
 [140 BPM] Kling_Gloeckchen.fmf
           └─ Sehr lebendig, Kinderfreundlich
           
+[135 BPM] Lasst_Uns_Froh_Und_Munter_Sein.fmf
+          └─ Nikolauslied, sehr beschwingt
+          
 [130 BPM] Morgen_Kommt_Der_Weihnachtsmann.fmf
           └─ Fröhlich, Vorfreude auf Geschenke
           
+[130 BPM] Tochter_Zion.fmf
+          └─ Jubelnd, triumphierend (Händel)
+          
+[125 BPM] Morgen_Kinder_Wirds_Was_Geben.fmf
+          └─ Voller Vorfreude auf Heiligabend
+          
 [120 BPM] Alle_Jahre_Wieder.fmf
           └─ Traditionell, beliebtes deutsches Weihnachtslied
+          
+[120 BPM] Advent_Advent_Verpennt.fmf
+          └─ Humorvolle Variante mit Zusatzvers
           
 [120 BPM] Schneeflöckchen_Weissröckchen.fmf
           └─ Einfaches Kinderlied über Schnee
@@ -28,8 +41,26 @@
 [115 BPM] Kommet_Ihr_Hirten.fmf
           └─ Festlich, Hirtengeschichte
           
+[110 BPM] Froehliche_Weihnacht_Ueberall.fmf
+          └─ Fröhlich und beschwingt
+          
 [110 BPM] Ihr_Kinderlein_Kommet.fmf
           └─ Einladend, Kinderweihnachtslied
+          
+[110 BPM] Nun_Freut_Euch_Ihr_Christen.fmf
+          └─ Aufmunternd und freudig
+          
+[105 BPM] Was_Soll_Das_Bedeuten.fmf
+          └─ Schlesisches Hirtenlied, volkstümlich
+          
+[100 BPM] Advent_Advent_Ein_Lichtlein_Brennt.fmf
+          └─ Traditionelles Adventslied
+          
+[100 BPM] Es_Ist_Fuer_Uns_Eine_Zeit_Angekommen.fmf
+          └─ Volksweise aus dem Hunsrück
+          
+[100 BPM] Macht_Hoch_Die_Tuer.fmf
+          └─ Majestätisch und festlich
           
 [100 BPM] O_Tannenbaum.fmf
           └─ Klassiker, auch international bekannt
@@ -37,11 +68,29 @@
 [100 BPM] Vom_Himmel_Hoch.fmf
           └─ Lutherisches Weihnachtslied, traditionell
           
+[ 95 BPM] Wir_Sagen_Euch_An.fmf
+          └─ Erwartungsvoll, für die Adventszeit
+          
 [ 90 BPM] Leise_Rieselt_Der_Schnee.fmf
           └─ Sanft, beschreibt fallenden Schnee
           
+[ 90 BPM] O_Du_Froehliche.fmf
+          └─ Sehr beliebtes Weihnachtslied, innig
+          
+[ 90 BPM] Zu_Bethlehem_Geboren.fmf
+          └─ Erhaben und feierlich
+          
 [ 80 BPM] Stille_Nacht.fmf
           └─ Weltberühmt, das bekannteste Weihnachtslied
+          
+[ 75 BPM] Still_Still_Still.fmf
+          └─ Österreichisches Wiegenlied, beruhigend
+          
+[ 70 BPM] Joseph_Lieber_Joseph_Mein.fmf
+          └─ Mittelalterliches Wiegenlied, zärtlich
+          
+[ 65 BPM] Maria_Durch_Ein_Dornwald_Ging.fmf
+          └─ Mystisch und meditativ
           
 [ 60 BPM] Es_Ist_Ein_Ros_Entsprungen.fmf
           └─ Mittelalterlich, meditativ, sehr besinnlich
@@ -94,7 +143,7 @@ INDEX.txt (diese Datei)
 
 Format:         FMF (Flipper Music Format) Version 0
 Dateigröße:     1-3 KB pro Datei
-Gesamtgröße:    ~25 KB (alle Dateien)
+Gesamtgröße:    ~50 KB (alle Dateien)
 Kompatibilität: Flipper Zero Music Player Plugin
 Lizenz:         Public Domain (gemeinfreie Volkslieder)
 
@@ -109,17 +158,29 @@ Lizenz:         Public Domain (gemeinfreie Volkslieder)
 
 👨‍👩‍👧‍👦 Mit Kindern:
    - Kling_Gloeckchen.fmf
+   - Lasst_Uns_Froh_Und_Munter_Sein.fmf
    - Morgen_Kommt_Der_Weihnachtsmann.fmf
+   - Morgen_Kinder_Wirds_Was_Geben.fmf
    - Schneeflöckchen_Weissröckchen.fmf
+   - Advent_Advent_Verpennt.fmf (mit Humor!)
 
 🍽️ Weihnachtsessen:
    - Stille_Nacht_Background_10min.fmf
    - O_Tannenbaum_Background_10min.fmf
 
 🕯️ Besinnliche Momente:
+   - Maria_Durch_Ein_Dornwald_Ging.fmf
    - Es_Ist_Ein_Ros_Entsprungen.fmf
+   - Joseph_Lieber_Joseph_Mein.fmf
+   - Still_Still_Still.fmf
    - Leise_Rieselt_Der_Schnee.fmf
    - Vom_Himmel_Hoch.fmf
+
+🎄 Adventszeit:
+   - Advent_Advent_Ein_Lichtlein_Brennt.fmf
+   - Wir_Sagen_Euch_An.fmf
+   - Macht_Hoch_Die_Tuer.fmf
+   - Es_Ist_Fuer_Uns_Eine_Zeit_Angekommen.fmf
 
 ⛪ Kirchliche Atmosphäre:
    - Es_Ist_Ein_Ros_Entsprungen.fmf
