@@ -79,6 +79,102 @@ Diese Sammlung enthält traditionelle deutsche Weihnachtslieder im FMF-Format f�
     - Fröhlich und leicht
     - Perfekt für Kinder
 
+12. **Froehliche_Weihnacht_Ueberall.fmf** (110 BPM)
+    - Traditionelles deutsches Weihnachtslied
+    - Text: August Heinrich Hoffmann von Fallersleben
+    - Melodie: Englisches Volkslied
+    - Fröhlich und beschwingt
+
+13. **Advent_Advent_Ein_Lichtlein_Brennt.fmf** (100 BPM)
+    - Beliebtes Adventslied
+    - Traditionelle deutsche Melodie
+    - Ruhig und erwartungsvoll
+    - Perfekt für die Adventszeit
+
+14. **Advent_Advent_Verpennt.fmf** (120 BPM)
+    - Humorvolle Variante des Adventsliedes
+    - Mit dem bekannten Zusatzvers
+    - Fröhlich und augenzwinkernd
+    - "Und wenn das fünfte Lichtlein brennt..."
+
+15. **Joseph_Lieber_Joseph_Mein.fmf** (70 BPM)
+    - Mittelalterliches Wiegenlied (15. Jahrhundert)
+    - Zärtliche, sanfte Melodie
+    - Langsam und innig
+    - Eines der ältesten deutschen Weihnachtslieder
+
+16. **Zu_Bethlehem_Geboren.fmf** (90 BPM)
+    - Traditionelles Weihnachtslied
+    - Text: Friedrich Spee (1637)
+    - Feierlich und erhaben
+    - Erzählt die Weihnachtsgeschichte
+
+17. **Macht_Hoch_Die_Tuer.fmf** (100 BPM)
+    - Adventslied
+    - Text: Georg Weissel (1642)
+    - Majestätisch und festlich
+    - Verkündung der Ankunft Christi
+
+18. **Tochter_Zion.fmf** (130 BPM)
+    - Festliches Weihnachtslied
+    - Melodie: Georg Friedrich Händel
+    - Lebhaft und jubelnd
+    - Triumphaler Charakter
+
+19. **Nun_Freut_Euch_Ihr_Christen.fmf** (110 BPM)
+    - Traditionelles Weihnachtslied
+    - Fröhlich und aufmunternd
+    - Mittleres Tempo
+    - Aufruf zur Freude
+
+20. **O_Du_Froehliche.fmf** (90 BPM)
+    - Eines der beliebtesten deutschen Weihnachtslieder
+    - Text: Johannes Daniel Falk (1816)
+    - Melodie: Sizilianisches Schifferlied
+    - Feierlich und innig
+
+21. **Wir_Sagen_Euch_An.fmf** (95 BPM)
+    - Traditionelles Adventslied
+    - Maria Luise Thurmair (1954)
+    - Ruhig und erwartungsvoll
+    - Für die vier Adventssonntage
+
+22. **Maria_Durch_Ein_Dornwald_Ging.fmf** (65 BPM)
+    - Altes deutsches Adventslied
+    - Mittelalterliche Ursprünge
+    - Sehr langsam und meditativ
+    - Mystische Atmosphäre
+
+23. **Was_Soll_Das_Bedeuten.fmf** (105 BPM)
+    - Schlesisches Weihnachtslied
+    - Hirten-Thema
+    - Fröhlich und volkstümlich
+    - Erzählt von den Hirten auf dem Feld
+
+24. **Still_Still_Still.fmf** (75 BPM)
+    - Österreichisches Wiegenlied
+    - Aus dem Salzburger Land
+    - Sanft und beruhigend
+    - Wiegenlied für das Christuskind
+
+25. **Morgen_Kinder_Wirds_Was_Geben.fmf** (125 BPM)
+    - Fröhliches Kinderlied
+    - Text: Carl Gottlieb Hering (1809)
+    - Lebhaft und voller Vorfreude
+    - Beschreibt die Spannung vor Heiligabend
+
+26. **Es_Ist_Fuer_Uns_Eine_Zeit_Angekommen.fmf** (100 BPM)
+    - Traditionelles Adventslied
+    - Volksweise aus dem Hunsrück
+    - Mittleres Tempo
+    - Verkündet die Adventszeit
+
+27. **Lasst_Uns_Froh_Und_Munter_Sein.fmf** (135 BPM)
+    - Beliebtes Nikolauslied
+    - Fröhlich und beschwingt
+    - Schnelles Tempo
+    - Perfekt für den Nikolaustag (6. Dezember)
+
 ### Hintergrundmusik (ca. 10 Minuten, verlangsamte Versionen)
 
 Diese Versionen sind deutlich langsamer und wiederholen sich mehrfach, ideal als beruhigende Hintergrundmusik:
